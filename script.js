@@ -12,7 +12,3 @@ function setGradient() {
 color1.addEventListener("input", setGradient);
 
 color2.addEventListener("input", setGradient);
-//due background belli che ho trovato:
-
-//linear-gradient(to right, rgb(16, 148, 213), rgb(199, 26, 63))
-//linear-gradient(to right, rgb(16, 148, 213), rgb(255, 102, 136))
